@@ -1,7 +1,7 @@
 function GitHubCorner() {
     return (
         <a
-            href="https://github.com/sahilatahar/Code-Sync"
+            href="https://github.com/harsh-2025/codesync-frontend/tree/main"
             className="github-corner block"
             aria-label="View source on GitHub"
             target="_blank"
